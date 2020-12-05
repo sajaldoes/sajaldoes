@@ -1,7 +1,7 @@
 ### 
 #### 
 <h2 align="center">Hi there, I'm Sajal Das 👋</h2>
-<p align=center>Explorer, Learner, Programmer.</p>
+<h3 align=center>Explorer, Learner, Programmer.</h3>
 <!--
 **sajaldas19/sajaldas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
