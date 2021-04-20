@@ -2,7 +2,7 @@
 #### 
 <h2 align="center">Hi there, I'm Sajal Das 👋</h2>
 <h3 align=center>Explorer, Learner, Programmer.</h3>
-I'm a Tech Enthusiast person, Love to explore new technologies and I'm always hungry for new learning.
+<p align="center">I'm a Tech Enthusiast person, Love to explore new technologies and I'm always hungry for new learning.</p>
 <!--
 **sajaldas19/sajaldas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to eat.
 -->
-<h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 Skills</h2>
+<h2 align="center">👨‍💻Skills👨‍💻</h2>  
 
 <p align=center>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
