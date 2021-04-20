@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
-  </p>
-
-<p align=center>
+  </p>  
   
-![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true)  
+---
+
+<p align="center">  
+<a href="https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true"/>
+  </a>
 </p>
