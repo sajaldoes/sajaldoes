@@ -2,6 +2,7 @@
 #### 
 <h2 align="center">Hi there, I'm Sajal Das 👋</h2>
 <h3 align=center>Explorer, Learner, Programmer.</h3>
+I'm a Tech Enthusiast person, Love to explore new technologies and I'm always hungry for new learning.
 <!--
 **sajaldas19/sajaldas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +29,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
 <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android"> <br />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
+  </p>
+
+<p align=center>
+  
+![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true)  
 </p>
