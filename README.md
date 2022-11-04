@@ -22,22 +22,36 @@ Here are some ideas to get you started:
 <h2 align="center">👨‍💻Skills👨‍💻</h2>  
 
 <p align=center>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br />
-  <img src="https://img.shields.io/badge/-Java-F04848?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
-<img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android"> <br />
-<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <br/>
+  
+  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTroch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/OpenCv-5C3EE8?style=for-the-badge&logo=opencv"> 
+  ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+  ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
+  ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+  ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+<br/>
   </p>  
   
 ---
 
 <p align="center">  
-<a href="https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=sajaldas19&theme=algolia&show_icons=true"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=sajaldoes&theme=algolia&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=sajaldoes&theme=algolia&show_icons=true">
   </a>
 </p>
