@@ -39,12 +39,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTroch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"> 
   <img src="https://img.shields.io/badge/OpenCv-5C3EE8?style=for-the-badge&logo=opencv"> 
-  ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
-  ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
-  ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
-  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-  ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label="> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label="> 
+
 <br/>
   </p>  
   
