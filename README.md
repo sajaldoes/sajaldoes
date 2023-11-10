@@ -1,7 +1,6 @@
 ### 
 #### 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Code+Latin&weight=600&size=30&pause=1000&color=2DDE98&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hello+world!%F0%9F%91%8B" alt="Typing SVG" /></a>
----
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Code+Latin&weight=600&color=00AEFF&center=true&vCenter=true&random=false&width=1000&lines=I'm+Sajal+Das+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Explorer%2C+Learner%2C+Programmer" alt="Typing SVG" /></a>
 <p align="center">A Tech Enthusiast person, Love to explore new technologies and I'm always hungry for new learning.</p>
 <!-- <h2 align="center">Hi there, I'm Sajal Das 👋</h2>
