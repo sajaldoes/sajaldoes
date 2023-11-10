@@ -55,4 +55,7 @@ Here are some ideas to get you started:
   <a href="https://github-readme-stats.vercel.app/api?username=sajaldoes&theme=algolia&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=sajaldoes&theme=algolia&show_icons=true">
   </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sajaldoes&theme=algolia" alt="GitHub Streak" />
+  </a>
 </p>
